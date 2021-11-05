@@ -4,6 +4,7 @@ p{
 }
 h4{
     color: thistle;
+    text-align: center;
 }
 .life{
     color: indigo;
@@ -20,4 +21,8 @@ h4{
 }
 .hobbies{
     color: tomato;
+}
+.img{
+    text-align: center;
+    background-color: slategrey;
 }
