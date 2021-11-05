@@ -20,9 +20,11 @@ h4{
     color: sienna;
 }
 .hobbies{
-    color: tomato;
+    color:gray;
 }
 .img{
-    text-align: center;
-    background-color: slategrey;
+    float: right;
+    background-color: lightslategray;
+    padding: 25px;
+    border: 8px solid gray;
 }
