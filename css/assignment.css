@@ -21,10 +21,14 @@ h4{
 }
 .hobbies{
     color:gray;
+    text-shadow: gray;
+    font-style:italic;
 }
 .img{
     float: right;
     background-color: lightslategray;
     padding: 25px;
     border: 8px solid gray;
+    font-weight: 20px;
+    margin: 60px solid gray;
 }
